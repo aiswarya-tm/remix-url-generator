@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/remix-url-generator/static/css/main.c42f428c.css",
+    "main.js": "/remix-url-generator/static/js/main.f50516a6.js",
+    "static/js/453.7d23c761.chunk.js": "/remix-url-generator/static/js/453.7d23c761.chunk.js",
+    "index.html": "/remix-url-generator/index.html",
+    "main.c42f428c.css.map": "/remix-url-generator/static/css/main.c42f428c.css.map",
+    "main.f50516a6.js.map": "/remix-url-generator/static/js/main.f50516a6.js.map",
+    "453.7d23c761.chunk.js.map": "/remix-url-generator/static/js/453.7d23c761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42f428c.css",
+    "static/js/main.f50516a6.js"
+  ]
+}
